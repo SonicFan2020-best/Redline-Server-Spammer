@@ -1,4 +1,5 @@
-# Redline Server Spammer
+# Redline Server Spammer (CLEAN EDITION!) By SonicFan2020-best
+
 Spamming randomized nonsense data against Redline stealers' C&amp;C servers.  
 
 ## Brief intro
@@ -16,7 +17,7 @@ https://www.virustotal.com/gui/file/ed834c43c24a468fbbdf46fef36c44e0979d996b8ce1
 Virustotal scan of the decrypted payload:  
 https://www.virustotal.com/gui/file/f42e3406469f45d2b4b87f90a2b584f12018ba8e1fd29f7518748e901b5ddda9/detection
 
-This script spams randomly generated offsensive data to the C&C server of the malware sample described above.  
+This script spams randomly generated not offensive data to the C&C server of the malware sample described above.  
   
 ## WARNING(1): Do NOT use/modify this tool against innocent websites.
 I uploaded the script just for ppls to spam malicious sites only, in effort of taking those scumbags down or at least rendering their service unavailable.
