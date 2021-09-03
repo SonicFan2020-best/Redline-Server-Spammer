@@ -21,8 +21,9 @@ This script spams randomly generated offsensive data to the C&C server of the ma
 ## WARNING(1): Do NOT use/modify this tool against innocent websites.
 I uploaded the script just for ppls to spam malicious sites only, in effort of taking those scumbags down or at least rendering their service unavailable.
   
-## WARNING(2): Source code contains offensive words and phrases.
-The random messages pool contains extremely offensive and rude words. I am NOT endorsing ANY kind of behaviors described in those insulting sentences. Those are just used to make the perpetrators extra mad.  
+## Warning #2 has been removed.
+Why? It is because in this version, if you want to avoid cyberbullying a scammer but instead just annoy them and ruin their day. I have replaced the message with messages that keep bugging them to take down the file. 
+
   
 ## Usage
 `node /path/to/directory/of/package`  
